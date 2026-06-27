@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:00D9FF&height=220&section=header&text=Hey%20There!%20I'm%20[Your%20Name]%20👋&fontSize=36&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=55&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:00D9FF&height=220&section=header&text=Hey%20There!%20👋%20I'm%20Rajashree%20Ghosh&fontSize=36&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=55&descColor=FFFFFF"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%94%8D+Turning+Raw+Data+Into+Actionable+Insights;%F0%9F%93%8A+Building+Real-World+Data+Projects;%F0%9F%A4%96+Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
 </a>
 
-
+<br/>
 
 
 <br/>
@@ -71,7 +71,7 @@ I am an aspiring **Data Analyst** focused on working with real-world datasets to
 <br/>
 <br/>
 
-> 💼 **LinkedIn:** [linkedin.com/in/abc](https://www.linkedin.com/in/abc/) &nbsp; | &nbsp; 📧 **Email:** [abc@gmail.com](mailto:abc@gmail.com)
+> 💼 **LinkedIn:** [linkedin.com/in/rajashree-ghosh-79b4a1383](https://www.linkedin.com/in/rajashree-ghosh-79b4a1383/) &nbsp; | &nbsp; 📧 **Email:** [datacubics111@gmail.com](mailto:datacubics111@gmail.com)
 
 </div>
 
@@ -148,12 +148,9 @@ I am an aspiring **Data Analyst** focused on working with real-world datasets to
 
 <br/>
 
-<!-- TOP LANGUAGES -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc&layout=donut-vertical&theme=transparent&hide_border=true&border_radius=10&title_color=00D9FF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="35%"/>
-</a>
 
-<br/><br/>
+
+<br/>
 
 <!-- CONTRIBUTION GRAPH -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -214,11 +211,11 @@ I am an aspiring **Data Analyst** focused on working with real-world datasets to
 
 <br/>
 
-<a href="https://www.linkedin.com/in/abc/" target="_blank">
+<a href="https://www.linkedin.com/in/rajashree-ghosh-79b4a1383/" target="_blank">
   <img src="https://img.shields.io/badge/-%E2%86%92%20Let's%20Connect%20on%20LinkedIn%20%E2%86%90-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn CTA" height="45"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:abc@gmail.com" target="_blank">
+<a href="mailto:datacubics111@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-%E2%86%92%20Send%20Me%20an%20Email%20%E2%86%90-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email CTA" height="45"/>
 </a>
 
