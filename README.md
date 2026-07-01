@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00b4d8&height=200&section=header&text=Data%20Analyst%20%7C%20AI%20Enthusiast&fontSize=36&fontColor=00eaff&fontAlignY=38&desc=Turning%20Raw%20Data%20into%20Actionable%20Insights&descAlignY=58&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Aspiring+Data+Analyst;Python+%7C+EDA+%7C+ML+%7C+Business+Analysis+%F0%9F%A4%96;Seeking+Internships+%26+Project+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Aspiring+Data+Analyst;Python+%7C+EDA+%7C+ML+%7C+Business+Analysis)](https://git.io/typing-svg)
 
 </div>
 
