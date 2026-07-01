@@ -123,7 +123,7 @@ analyst = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d1117,100:000000&height=120&section=footer&text=Let%27s%20work%20dilligently%2in%20this%data%20driven%20era%20%F0%9F%9A%80&fontSize=18&fontColor=00eaff&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d1117,100:000000&height=120&section=footer&text=Let%27s%20work%20diligently%20in%20this%20data%20-driven%20era%20%F0%9F%9A%80&fontSize=18&fontColor=00eaff&fontAlignY=65" width="100%" />
 
 [![](https://visitcount.itsvg.in/api?id=abc&icon=6&color=1)](https://visitcount.itsvg.in)
 
