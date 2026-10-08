@@ -156,25 +156,7 @@ class RajashreeGhosh:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=datacubics111-rsri&theme=darkhub&title_color=00eaff&column=6&margin-w=10&no-bg=true&no-frame=false" width="90%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=datacubics111-rsri&theme=react-dark&bg_color=0d1117&color=00eaff&line=00b4d8&point=caf0f8&area=true&hide_border=false" width="95%" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
